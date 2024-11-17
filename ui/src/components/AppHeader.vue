@@ -36,7 +36,7 @@ onMounted(() => {
                 <div class="header_info">
                     <RouterLink to="/">
                         <div class="logo">
-                            <img src="/images/logo3.png" alt="">
+                            <img src="/images/logo.png" alt="">
                         </div>
                     </RouterLink>
 
