@@ -1,0 +1,52 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  text-decoration: none;
+  font-family: "DM Sans", sans-serif;
+  scroll-behavior: smooth;
+  letter-spacing: 0.01rem;
+  transition: .2s;
+}
+
+body {
+  background: var(--bg);
+}
+
+section {
+  display: flex;
+  justify-content: center;
+}
+
+.app_width {
+  width: 1240px;
+  max-width: calc(100% - 60px);
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+
+@media screen and (max-width: 800px) {
+  .app_width {
+    max-width: calc(100% - 30px);
+  }
+}
