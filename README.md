@@ -1,18 +1,18 @@
 ## Introduction 
 
-HoneyFi is a next-generation swap aggregator designed to provide users with the most efficient and cost-effective cross-chain swaps. Deployed on Bsc testnet, and Arbitrum Sepolia.
+It is a next-generation swap aggregator designed to provide users with the most efficient and cost-effective cross-chain swaps. Deployed on Bsc testnet, and Arbitrum Sepolia.
 
-HoneyFi leverages Equito Network GMP to seamlessly pass messages between different blockchains. Whether you're performing a same-chain or cross-chain swap, HoneyFi ensures users benefit from the best rates available on the source chain.
+It leverages Equito Network GMP to seamlessly pass messages between different blockchains. Whether you're performing a same-chain or cross-chain swap, HoneyFi ensures users benefit from the best rates available on the source chain.
 
 ## Description
-HoneyFi aggregates the best swap rates across multiple blockchains and facilitates cross-chain transactions using Equito Network's General Message Passing (GMP) protocol. 
+It aggregates the best swap rates across multiple blockchains and facilitates cross-chain transactions using Equito Network's General Message Passing (GMP) protocol. 
 
 While same-chain swaps are entirely free, cross-chain swaps incur a minimal fee of just 0.1% of the receiving token. The platform is designed to prioritize user experience, allowing effortless asset transfers with minimal cost and delay. 
 
 ![Untitleddd.png](https://cdn.dorahacks.io/static/files/191e276cbe65ec2f57aeb1f404cade08.png)
 
 ## Liquidity Pools
-HoneyFi provides liquidity pools where users can deposit their tokens to help facilitate cross-chain swaps. In return, liquidity providers (LPs) earn passive income from a portion of the fees collected during cross-chain swaps. This creates an opportunity for users to maximize their earnings by contributing to the platform's liquidity while supporting its ecosystem.
+It provides liquidity pools where users can deposit their tokens to help facilitate cross-chain swaps. In return, liquidity providers (LPs) earn passive income from a portion of the fees collected during cross-chain swaps. This creates an opportunity for users to maximize their earnings by contributing to the platform's liquidity while supporting its ecosystem.
 
 ## Arbitrum Contracts
 
