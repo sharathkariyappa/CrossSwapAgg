@@ -9,7 +9,6 @@ It aggregates the best swap rates across multiple blockchains and facilitates cr
 
 While same-chain swaps are entirely free, cross-chain swaps incur a minimal fee of just 0.1% of the receiving token. The platform is designed to prioritize user experience, allowing effortless asset transfers with minimal cost and delay. 
 
-![Untitleddd.png](https://cdn.dorahacks.io/static/files/191e276cbe65ec2f57aeb1f404cade08.png)
 
 ## Liquidity Pools
 It provides liquidity pools where users can deposit their tokens to help facilitate cross-chain swaps. In return, liquidity providers (LPs) earn passive income from a portion of the fees collected during cross-chain swaps. This creates an opportunity for users to maximize their earnings by contributing to the platform's liquidity while supporting its ecosystem.
